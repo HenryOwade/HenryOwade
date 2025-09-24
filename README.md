@@ -18,7 +18,7 @@ Beyond coding, I use this space as a **portfolio & services hub** where I help c
 ---
 
 ## 🌐 Portfolio & Projects  
-👉 [My Portfolio Website](https://HenryOwade.github.io/my_portfolio/)  
+👉 [My Portfolio Website](https://HenryOwade.github.io)  
 📂 [GitHub Projects](https://github.com/HenryOwade?tab=repositories)  
 
 ---
